@@ -29,4 +29,11 @@ elif (Bil2 == Bil3) and (Bil2 != Bil1):
     Terbesar = Bil2
     Nam_Bil = "Bilangan 2 dan Bilangan 3"
 
+# Mencari semua bilangan sama besar
+elif [Bil1, Bil2, Bil3] == [Bil1, Bil2, Bil3]:
+    Terbesar = Bil1
+    Nam_Bil = "semua bilangan sama besar"
+else:
+    print("Nilai yang anda masukan salah!")
+
 print("Bilangan yang terbesar adalah", Nam_Bil, "dengan nilai", Terbesar)

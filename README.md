@@ -41,4 +41,8 @@ Kode yang digunakan untuk mencetak output pada program tersebut adalah :
 
 ![enter image description here](https://github.com/kameliacindy/labspy02/blob/master/img/5.PNG)
 
+### 6. Flowchart
+
+![enter image description here](https://github.com/kameliacindy/labspy02/blob/master/img/Untitled%20Diagram.png)
+
 
